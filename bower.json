@@ -1,0 +1,22 @@
+{
+  "name": "d3 and jquery template",
+  "description": "loading d3 and jquery",
+  "main": "app/js/main.js",
+  "authors": [
+    "Brian Speight"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/phed888/gulp-project",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "d3": "^3.5.15"
+  }
+}
