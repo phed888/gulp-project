@@ -1,7 +1,7 @@
 {
-  "name": "d3 and jquery template",
-  "description": "loading d3 and jquery",
-  "main": "app/js/main.js",
+  "name": "gulp-project",
+  "description": "Project template utilizing gulp, gulp-sass, bower, jquery and d3",
+  "main": "'app/js/main.js'",
   "authors": [
     "Brian Speight"
   ],
@@ -14,9 +14,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "jquery": "^2.2.0",
-    "d3": "^3.5.15"
-  }
+  ]
 }
